@@ -79,6 +79,5 @@ Follow the instruction given on [Heroku Documentation](https://devcenter.heroku.
 2. Under localhost, logging is performed for all the actions and its stored onto logs.txt file
 3. When the app is deployed on heroku, logs can be viewed on  heroku dashboard or CLI.
 
-## Contributors
-  [Hrishikesh Kini](https://github.com/hrishikeshkini)
+
 

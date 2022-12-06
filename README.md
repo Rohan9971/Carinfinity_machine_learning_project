@@ -17,11 +17,11 @@ Link: [http://carinfinity.herokuapp.com](http://carinfinity.herokuapp.com)
 
 Open the site, Go to About menu, In dropdown choose Car Valuation. 
 
-![Screenshot](Capture.PNG)
-![Screenshot](Capture2.PNG)
-![Screenshot](Capture3.PNG)
-![Screenshot](Capture4.PNG)
-![Screenshot](Capture5.PNG)
+![Capture](https://user-images.githubusercontent.com/112953571/205957866-e0bfbfbc-6d1a-407d-b033-5d324de5abb9.PNG)
+![Capture2](https://user-images.githubusercontent.com/112953571/205957902-f9be3a21-69c0-4592-9dd5-dc007b8f9e97.PNG)
+![Capture3](https://user-images.githubusercontent.com/112953571/205957952-dec668f2-af1c-4441-89d7-ad292393d29d.PNG)
+![Capture4](https://user-images.githubusercontent.com/112953571/205957997-5dde6770-a6b8-4c04-8d4e-8bd48f82ffb8.PNG)
+![Capture5](https://user-images.githubusercontent.com/112953571/205958029-59b36fcc-b293-436a-9b31-8203234be337.PNG)
 
 
 ## Problem Statement
